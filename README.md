@@ -17,4 +17,4 @@ Script bash para automatizar el reconocimiento de puertos abiertos y realizar un
 
 ```bash
 chmod +x smart_scan.sh
-./smart_scan.sh
+./NmapPortScan.sh
